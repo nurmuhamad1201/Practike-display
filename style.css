@@ -1,0 +1,14 @@
+.flex_contener{
+    display: flex;
+    /* flex-wrap: wrap; */
+     justify-content: space-around;
+}
+.zet{
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+    border: 1px solid black;
+    
+    
+    
+}
